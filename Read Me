@@ -1,0 +1,3 @@
+Create a folder called "views" and place the file called "login.ejs" inside it.
+Go to http://localhost:3000 in your browser to see the login screen or put it in your Apache server's www folder and go to the exact path.
+It's just a simple screen to loaf around my studies and it can help you too, you can use CSS and make it your own.
